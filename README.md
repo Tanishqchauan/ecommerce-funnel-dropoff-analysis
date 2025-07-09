@@ -1,5 +1,7 @@
 # ecommerce-funnel-dropoff-analysis
 
+POWER BI DASBOARD LINK: https://app.powerbi.com/links/1DUJrqZFCk?ctid=b85c2566-50f7-4443-b38e-bbe32b5bb45c&pbi_source=linkShare
+
 🚀 Overview
 This project analyzes 100K+ user sessions from an e-commerce platform to uncover drop-offs between funnel stages—View → Cart → Purchase—and provide actionable insights for reducing cart abandonment and improving conversion rates.
 
